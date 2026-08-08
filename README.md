@@ -19,6 +19,7 @@ I'm a Computer Science student interested in Python and software development. I'
 - **Web:** HTML, CSS
 - **Libraries:**  NumPy
 - **Tools:** Git, GitHub, VS Code
+- **Python Concepts:** OOP, Regular Expressions, File Handling, Exception Handling, Modules
 
 ## 📌 Featured Project
 
